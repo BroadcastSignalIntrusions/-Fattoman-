@@ -1,4 +1,4 @@
-# Fattoman
+# FATTOMAN ファットマン
 
 
 Wikipedia
