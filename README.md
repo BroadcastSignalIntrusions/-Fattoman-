@@ -1,4 +1,4 @@
-# FATTOMAN ファットマン
+# ファットマン (FATTOMAN)
 
 
 Wikipedia
